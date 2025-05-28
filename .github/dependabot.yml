@@ -16,3 +16,4 @@ updates:
     commit-message:
       prefix: "github-actions"
       include: "scope"
+
